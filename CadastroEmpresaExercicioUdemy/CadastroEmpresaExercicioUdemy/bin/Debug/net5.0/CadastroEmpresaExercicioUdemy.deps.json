@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CadastroEmpresaExercicioUdemy/1.0.0": {
+        "runtime": {
+          "CadastroEmpresaExercicioUdemy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CadastroEmpresaExercicioUdemy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
