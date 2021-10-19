@@ -7,6 +7,8 @@ namespace CadastroEmpresaExercicioUdemy
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Comit Adicionado");
+
         }
     }
 }
